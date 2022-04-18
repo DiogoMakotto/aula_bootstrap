@@ -9,9 +9,22 @@ body{
 .quemsomos {
     background-color: #EAEDED;
     color: #1C2833;
-}
+   }
 
 .margin{
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color:#F8F9F9;
+}
+
+.espace{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.h6{
+    font-size: small;
 }
