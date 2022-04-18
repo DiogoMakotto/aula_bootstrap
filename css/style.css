@@ -17,7 +17,7 @@ body{
 }
 
 .parceiros{
-    background-color:#F8F9F9;
+    background-color:#EAFAF1;
 }
 
 .espace{
@@ -27,4 +27,14 @@ body{
 
 .h6{
     font-size: small;
+}
+
+.servicos{
+    background-color: #EAECEE;
+}
+
+.bg-footer{
+    font-size: smaller;
+    font-weight: bold;
+    background-color: #EAFAF1;
 }
